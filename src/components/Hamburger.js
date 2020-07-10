@@ -8,9 +8,7 @@ const Hamburger = () => {
     <div className='hamburger-menu'>
       <div className="menu-secondary-background-color"></div>
       <div className="menu-layer">
-        <div className="menu-city-background">
-
-        </div>
+        <div className="menu-city-background"></div>
         <div className="container">
           <div className="wrapper">
             <div className="menu-links">
@@ -34,7 +32,8 @@ const Hamburger = () => {
                   during the 90s as desktop publishers bundled the text with their software. 
                   Today it's seen all around the web; on templates, websites, 
                   and stock designs. Use our generator to get your own, 
-                  or read on for the authoritative history of lorem ipsum.</p>
+                  or read on for the authoritative history of lorem ipsum.
+                  </p>
               </div>
               <div className="locations">
                 Locations: 

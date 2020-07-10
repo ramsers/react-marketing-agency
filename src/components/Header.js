@@ -13,9 +13,9 @@ const Header = () => {
             <div className="logo">
               <Link to='/'>HAMBRG</Link>
             </div>
-          </div>
-          <div className="menu">
-            <button>Menu</button>
+            <div className="menu">
+              <button>Menu</button>
+            </div>
           </div>
         </div>
       </div>
